@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://qnn0rbnnj34f"
+path="res://.godot/imported/phoenix canariensis.obj-40059ca769446553d1db216e1c1b7954.mesh"
+
+[deps]
+
+files=["res://.godot/imported/phoenix canariensis.obj-40059ca769446553d1db216e1c1b7954.mesh"]
+
+source_file="res://Assets/Natural/Plants/Trees/Palm/phoenix canariensis.obj"
+dest_files=["res://.godot/imported/phoenix canariensis.obj-40059ca769446553d1db216e1c1b7954.mesh", "res://.godot/imported/phoenix canariensis.obj-40059ca769446553d1db216e1c1b7954.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false
