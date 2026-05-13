@@ -2,7 +2,7 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bf01phlnx15us"
+uid="uid://bls45yf3c53c4"
 path.s3tc="res://.godot/imported/stone_wall_ao_2k.jpg-5285dcf30c446ff6144e81ebdeacd5bc.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
@@ -26,8 +26,8 @@ compress/normal_map=0
 compress/channel_pack=0
 mipmaps/generate=true
 mipmaps/limit=-1
-roughness/mode=0
-roughness/src_normal=""
+roughness/mode=8
+roughness/src_normal="res://Resources/Textures/Barriers/Stone/stone_wall_disp_2k.jpg"
 process/channel_remap/red=0
 process/channel_remap/green=1
 process/channel_remap/blue=2

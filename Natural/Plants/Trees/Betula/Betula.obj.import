@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d3iuypv17s131"
+path="res://.godot/imported/Betula.obj-47e429e8eb0e781f4e8c5c0c3dd64afe.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Betula.obj-47e429e8eb0e781f4e8c5c0c3dd64afe.mesh"]
+
+source_file="res://Assets/Natural/Plants/Trees/Betula/Betula.obj"
+dest_files=["res://.godot/imported/Betula.obj-47e429e8eb0e781f4e8c5c0c3dd64afe.mesh", "res://.godot/imported/Betula.obj-47e429e8eb0e781f4e8c5c0c3dd64afe.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=false
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

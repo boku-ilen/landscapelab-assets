@@ -2,7 +2,7 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://6siyl18t8mj7"
+uid="uid://pn1pswtepkes"
 path.s3tc="res://.godot/imported/stone_wall_nor_gl_2k.jpg-a3406726f68cc396e503f54a9718b2da.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
@@ -27,7 +27,7 @@ compress/channel_pack=0
 mipmaps/generate=true
 mipmaps/limit=-1
 roughness/mode=1
-roughness/src_normal="res://Resources/Meshes/_NEW assets/stone-wall/materials/stone_wall_nor_gl_2k.jpg"
+roughness/src_normal="res://Resources/Textures/Barriers/Stone/stone_wall_nor_gl_2k.jpg"
 process/channel_remap/red=0
 process/channel_remap/green=1
 process/channel_remap/blue=2
